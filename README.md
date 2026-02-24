@@ -39,6 +39,6 @@ time: 5 minute
 tool: hashcat 
 GPU: 3090 RTX
 
-## Licence
+## Licenses
 GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html
 
